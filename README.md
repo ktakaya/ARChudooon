@@ -5,4 +5,4 @@ Unity 5.5.0 sample project
 
 他サイトから、リソースを色々お借りしてます。
 
-<img src="https://raw.github.com/wiki/ktakaya/ARChudooon/image/Screenshot.png" />
+<img src="https://raw.github.com/wiki/ktakaya/ARChudooon/images/Screenshot.png" />
